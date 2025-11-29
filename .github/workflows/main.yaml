@@ -13,7 +13,7 @@ on:
 jobs:
   # Единственная задача — склонировать код 
   # и вывести в консоль дерево файлов
-  checkout-and-print-tree:
+  tests:
     runs-on: ubuntu-latest
     steps:
       # На GitHub Actions есть готовые описания шагов, 
