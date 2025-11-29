@@ -101,4 +101,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest 
+          tags: pupsich460/taski_frontend:latest 
